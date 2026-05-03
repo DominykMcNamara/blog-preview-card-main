@@ -1,0 +1,14 @@
+:root {
+    --yellow: #F4D04E;
+    --gray-950: #111111;
+    --gray-500: #6B5B6B;
+    --white: #FFFFFF;
+
+    --spacing-300: 24px;
+    --spacing-150: 12px;
+    --spacing-100: 8px;
+    --spacing-100: 8px;
+    --spacing-50: 4px;
+
+    --font-family: Figtree, sans-serif;
+}
